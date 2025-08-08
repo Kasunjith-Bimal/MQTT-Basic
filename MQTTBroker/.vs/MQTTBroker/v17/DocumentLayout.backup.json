@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTBroker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CB82C-A795-44A1-9521-7A10170D6414}|MQTTBroker.csproj|c:\\users\\kasunjith\\onedrive\\desktop\\mqtt example\\mqttbroker\\mqttbroker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E23CB82C-A795-44A1-9521-7A10170D6414}|MQTTBroker.csproj|solutionrelative:mqttbroker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CB82C-A795-44A1-9521-7A10170D6414}|MQTTBrokerTest.csproj|c:\\users\\kasunjith\\onedrive\\desktop\\mqtt example\\mqttbroker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CB82C-A795-44A1-9521-7A10170D6414}|MQTTBrokerTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CB82C-A795-44A1-9521-7A10170D6414}|MQTTBroker.csproj|c:\\users\\kasunjith\\onedrive\\desktop\\mqtt example\\mqttbroker\\mqttbroker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E23CB82C-A795-44A1-9521-7A10170D6414}|MQTTBroker.csproj|solutionrelative:mqttbroker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MQTTBroker",
+              "DocumentMoniker": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTBroker\\MQTTBroker.csproj",
+              "RelativeDocumentMoniker": "MQTTBroker.csproj",
+              "ToolTip": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTBroker\\MQTTBroker.csproj",
+              "RelativeToolTip": "MQTTBroker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T09:29:18.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MQTTBrokerTest",
+              "DocumentMoniker": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTBroker\\MQTTBroker.csproj",
+              "RelativeDocumentMoniker": "MQTTBroker.csproj",
+              "ToolTip": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTBroker\\MQTTBroker.csproj",
+              "RelativeToolTip": "MQTTBroker.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T07:02:53.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTBroker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTBroker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T06:56:42.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

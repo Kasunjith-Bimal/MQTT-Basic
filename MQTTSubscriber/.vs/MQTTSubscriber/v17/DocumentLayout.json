@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTSubscriber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5778B900-DCB1-4D4F-8EBC-60D1C68D33FB}|MQTTSubscriber.csproj|c:\\users\\kasunjith\\onedrive\\desktop\\mqtt example\\mqttsubscriber\\mqttsubscriber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5778B900-DCB1-4D4F-8EBC-60D1C68D33FB}|MQTTSubscriber.csproj|solutionrelative:mqttsubscriber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778B900-DCB1-4D4F-8EBC-60D1C68D33FB}|MQTTSubscriber.csproj|c:\\users\\kasunjith\\onedrive\\desktop\\mqtt example\\mqttsubscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778B900-DCB1-4D4F-8EBC-60D1C68D33FB}|MQTTSubscriber.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MQTTSubscriber",
+              "DocumentMoniker": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTSubscriber\\MQTTSubscriber.csproj",
+              "RelativeDocumentMoniker": "MQTTSubscriber.csproj",
+              "ToolTip": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTSubscriber\\MQTTSubscriber.csproj",
+              "RelativeToolTip": "MQTTSubscriber.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T09:52:57.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTSubscriber\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTSubscriber\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:18:06.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

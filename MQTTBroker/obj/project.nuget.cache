@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ovt1Wd48jqA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kasunjith\\OneDrive\\Desktop\\MQTT EXAMPLE\\MQTTBroker\\MQTTBroker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kasunjith\\.nuget\\packages\\mqttnet\\4.3.7.1207\\mqttnet.4.3.7.1207.nupkg.sha512"
+  ],
+  "logs": []
+}
